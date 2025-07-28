@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/374b4aeb788d0a94d0dce30a1274e60d23e624672869a3338179990f414c9fad/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3230302673656374696f6e3d68656164657226746578743d48656c6c6f253230576f726c642126666f6e7453697a653d3430" alt="Header Image" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=200&amp;section=header&amp;text=Hello%20World!&amp;fontSize=40" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/374b4aeb788d0a94d0dce30a1274e60d23e624672869a3338179990f414c9fad/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3230302673656374696f6e3d68656164657226746578743d48656c6c6f253230576f726c642126666f6e7453697a653d3430" alt="Header Image" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=200&amp;section=header&amp;text=Wel Come!&amp;fontSize=40" style="max-width: 100%;">
 
 
 
@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Gutu Yaekob</h1>
 <h3 align="center">A passionate SoftWare developer from Ethiopia</h3>
-<img  align="right"  width="400"     src="https://tenor.com/en-GB/view/developer-gif-2461104302247665708" alt="Coding" /> 
+<img  align="right"  width="400"     src="[https://www.pexels.com/video/person-browsing-the-internet-while-drinking-coffee-4828605/]" alt="Coding" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gutuy&label=Profile%20views&color=0e75b6&style=flat" alt="gutuy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gutuy" alt="gutuy" /></a> </p>
