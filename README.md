@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **gutuyaekob2021@gmail.com**
 
-- ⚡ Fun fact **⚡ **Fun fact:** I turn ☕ into code faster than my Wi-Fi can keep up.**
+- **⚡ **Fun fact:** I turn ☕ into code faster than my Wi-Fi can keep up.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
