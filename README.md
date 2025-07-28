@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gutu Yaekob</h1>
 <h3 align="center">A passionate SoftWare developer from Ethiopia</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/en-GB/view/developer-gif-2461104302247665708"/>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/abcd1234abcd.gif"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gutuy&label=Profile%20views&color=0e75b6&style=flat" alt="gutuy" /> </p>
 
