@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/gutu-yaekob-276b2b28a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gutu-yaekob-276b2b28a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/30435300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30435300" height="30" width="40" /></a>
 <a href="https://fb.com/afaanqabii.seexana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afaanqabii.seexana" height="30" width="40" /></a>
-<a href="https://instagram.com/guutuu yaaiqoob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guutuu yaaiqoob" height="30" width="40" /></a>
+<a href="https://instagram.com/guutuu yaaiqoob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guutuu_yaaiqoob" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
