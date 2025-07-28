@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Gutu Yaekob</h1>
 <h3 align="center">A passionate SoftWare developer from Ethiopia</h3>
-<img  align="right"  width="400"     src="[https://www.pexels.com/video/person-browsing-the-internet-while-drinking-coffee-4828605/]" alt="Coding" /> 
+<img  align="right"  width="400"     src="[https://www.pexels.com/video/person-browsing-the-internet-while-drinking-coffee-4828605]" alt="Coding" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gutuy&label=Profile%20views&color=0e75b6&style=flat" alt="gutuy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gutuy" alt="gutuy" /></a> </p>
